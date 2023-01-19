@@ -1,0 +1,13 @@
+* {
+    font-family: Arial, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.dark {
+    background-color: black;
+    color: #eee;
+}
+
+.light {
+    background-color: yellow;
+}
